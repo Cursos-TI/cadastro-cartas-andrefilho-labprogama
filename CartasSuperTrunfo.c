@@ -7,12 +7,12 @@
 int main() {
 
 
-char Estado , (Uma Letra de 'A' a 'H');
-char nome da cidade[2];
-int população;
-float Área;
-float PIB;
-int Pontos Turísticos;
+char Estado;
+char nome_da_cidade[20];
+int populacao;
+float area;
+float pib;
+int pontos_turisticos;
 
 
   // Área para definição das variáveis para armazenar as propriedades das cidades
